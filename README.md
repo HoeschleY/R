@@ -9,7 +9,7 @@ Construire un dataframe | Créer des colonnes dans un dataframe | Sélection et 
 # TP 2 et TP 2.R order,corplot,ajout colonne dans les dfs et subset
 Importer un dataframe | Sélection et filtre sur un dataframe | Trier un dataframe
 
-# TP 3 = Rappel
+# TP 3 = Exam
 
 Rappel des modules précédents
 
